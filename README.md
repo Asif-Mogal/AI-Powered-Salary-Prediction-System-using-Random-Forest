@@ -7,6 +7,7 @@ This is an AI-Powered Salary Prediction System using random forest and various p
 - pip
 
 ### Installation
+git clone 
 
 
 
