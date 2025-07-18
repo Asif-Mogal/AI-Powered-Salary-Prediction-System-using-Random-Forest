@@ -9,6 +9,5 @@ A salary prediction tool made using python and random forest machine learning mo
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/salary-predictor.git
-cd salary-predictor
+git clone https://github.com/Asif-Mogal/AI-Powered-Salary-Prediction-System-using-Random-Forest.git
 pip install -r requirements.txt
