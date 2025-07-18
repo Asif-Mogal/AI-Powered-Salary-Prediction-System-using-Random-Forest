@@ -7,9 +7,6 @@ This is an AI-Powered Salary Prediction System using random forest and various p
 - pip
 
 ### Installation
-git clone https://github.com/yourusername/salary-predictor.git
-cd salary-predictor
-pip install -r requirements.txt
-streamlit run app.py
+
 
 
